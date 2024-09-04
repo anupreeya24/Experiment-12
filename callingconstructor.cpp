@@ -1,3 +1,5 @@
+//12(a)
+
 #include <iostream>
 using namespace std;
 
